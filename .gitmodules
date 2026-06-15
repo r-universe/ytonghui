@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "CopulaSCR"]
 	path = CopulaSCR
-	url = https://github.com/cran/CopulaSCR
+	url = https://github.com/ytonghui/copulascr
